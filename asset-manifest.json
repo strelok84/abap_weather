@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ABAP_weather/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/ABAP_weather/static/js/main.170505cf.chunk.js",
-    "main.js.map": "/ABAP_weather/static/js/main.170505cf.chunk.js.map",
-    "runtime-main.js": "/ABAP_weather/static/js/runtime-main.738d70cf.js",
-    "runtime-main.js.map": "/ABAP_weather/static/js/runtime-main.738d70cf.js.map",
-    "static/js/2.d87e656f.chunk.js": "/ABAP_weather/static/js/2.d87e656f.chunk.js",
-    "static/js/2.d87e656f.chunk.js.map": "/ABAP_weather/static/js/2.d87e656f.chunk.js.map",
-    "static/js/3.2ec30c44.chunk.js": "/ABAP_weather/static/js/3.2ec30c44.chunk.js",
-    "static/js/3.2ec30c44.chunk.js.map": "/ABAP_weather/static/js/3.2ec30c44.chunk.js.map",
-    "index.html": "/ABAP_weather/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/ABAP_weather/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d87e656f.chunk.js.LICENSE.txt": "/ABAP_weather/static/js/2.d87e656f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ABAP_weather/static/media/logo.6ce24c58.svg"
+    "main.css": "/abap_weather/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/abap_weather/static/js/main.170505cf.chunk.js",
+    "main.js.map": "/abap_weather/static/js/main.170505cf.chunk.js.map",
+    "runtime-main.js": "/abap_weather/static/js/runtime-main.b846d468.js",
+    "runtime-main.js.map": "/abap_weather/static/js/runtime-main.b846d468.js.map",
+    "static/js/2.d87e656f.chunk.js": "/abap_weather/static/js/2.d87e656f.chunk.js",
+    "static/js/2.d87e656f.chunk.js.map": "/abap_weather/static/js/2.d87e656f.chunk.js.map",
+    "static/js/3.2ec30c44.chunk.js": "/abap_weather/static/js/3.2ec30c44.chunk.js",
+    "static/js/3.2ec30c44.chunk.js.map": "/abap_weather/static/js/3.2ec30c44.chunk.js.map",
+    "index.html": "/abap_weather/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/abap_weather/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d87e656f.chunk.js.LICENSE.txt": "/abap_weather/static/js/2.d87e656f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/abap_weather/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.738d70cf.js",
+    "static/js/runtime-main.b846d468.js",
     "static/js/2.d87e656f.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.170505cf.chunk.js"
