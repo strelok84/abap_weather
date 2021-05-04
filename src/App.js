@@ -7,7 +7,7 @@ class App extends React.Component {
     city: null,
     lat: "53",
     lon: "50",
-    data: {timezone:"Europe/Samara"},
+    data: { timezone: "Europe/Samara" },
     maxPressure: "нет данных",
     maxDiff: "нет данных",
   };
@@ -86,7 +86,6 @@ class App extends React.Component {
   };
   getWeather = (event) => {
     event.preventDefault();
-   
     this.componentDidMount();
   };
   render() {
@@ -121,7 +120,7 @@ class App extends React.Component {
             }}
           ></input>
         </form>
-        
+
         <input
           onClick={this.getWeather}
           type="submit"

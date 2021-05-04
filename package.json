@@ -12,7 +12,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "https://strelok84.github.io/ABAP_weather",
+  "homepage": "https://strelok84.github.io/abap_weather",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
